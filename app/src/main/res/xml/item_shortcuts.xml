@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_number_1"
+        android:shortcutDisabledMessage="@string/static_shortcut_disable"
+        android:shortcutId="staticShortcut"
+        android:shortcutLongLabel="@string/static_shortcut_long_label"
+        android:shortcutShortLabel="@string/static_shortcut_short_label">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="io.rmiri.appshortcutsdemo.MainActivity"
+            android:targetPackage="io.rmiri.appshortcutsdemo">
+            <extra
+                android:name="lunchedFrom"
+                android:value="staticShortcut" />
+        </intent>
+    </shortcut>
+</shortcuts>
