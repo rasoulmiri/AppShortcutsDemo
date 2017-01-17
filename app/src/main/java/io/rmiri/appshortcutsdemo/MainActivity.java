@@ -77,6 +77,4 @@ public class MainActivity extends AppCompatActivity {
         //hide shortcut from list and if a user has pinned your shortcut to home ,shortcut disable
         shortcutManager.disableShortcuts(Collections.singletonList(ID_DYNAMIC_SHORTCUT));
     }
-
-
 }
