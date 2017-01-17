@@ -78,4 +78,5 @@ public class MainActivity extends AppCompatActivity {
         shortcutManager.disableShortcuts(Collections.singletonList(ID_DYNAMIC_SHORTCUT));
     }
 
+
 }
