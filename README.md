@@ -1,6 +1,7 @@
 # AppShortcuts Demo
 demo for App Shortcut in android 7.1
 
+![alt text](http://rmiri.io/wp-content/uploads/2017/03/device-2017-03-03-021327.gif "final project")
 
 ## Links
 
