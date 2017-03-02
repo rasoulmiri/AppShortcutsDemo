@@ -2,6 +2,7 @@
 demo for App Shortcut in android 7.1
 
 ![alt text](http://rmiri.io/wp-content/uploads/2017/01/app-shortcut-android.gif "final project")
+![alt text](http://rmiri.io/wp-content/uploads/2017/03/device-2017-03-03-005536.gif "final project")
 
 ## Links
 
